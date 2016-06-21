@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "casperjs": "^1.1.1",
+    "n": "^2.0.2",
+    "path": "^0.12.7",
+    "system": "^1.0.4",
+    "url": "^0.11.0",
+    "util": "^0.10.3",
+    "utils": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
